@@ -1,2 +1,2 @@
 # free
-learn for istgan
+learn for instagan
